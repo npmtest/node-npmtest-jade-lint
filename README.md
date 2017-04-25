@@ -1,6 +1,6 @@
 # npmtest-jade-lint
 
-#### test coverage for  [jade-lint (v2.1.0)](https://github.com/pugjs/jade-lint#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-jade-lint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jade-lint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jade-lint.svg)](https://travis-ci.org/npmtest/node-npmtest-jade-lint)
+#### basic test coverage for  [jade-lint (v2.1.0)](https://github.com/pugjs/jade-lint#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-jade-lint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jade-lint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jade-lint.svg)](https://travis-ci.org/npmtest/node-npmtest-jade-lint)
 
 #### An unopinionated and configurable linter and style checker for Jade
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-jade-lint/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-jade-lint/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-jade-lint/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-jade-lint/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-jade-lint/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-jade-lint/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-jade-lint/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-jade-lint/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-jade-lint/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-jade-lint/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-jade-lint/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-jade-lint/build/coverage.html/index.html)
 
